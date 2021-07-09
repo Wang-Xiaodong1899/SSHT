@@ -327,7 +327,7 @@ def train_target(args):
         loss = Lx+ args.lu*Lu#* linear_rampup(iter_num)
         optimizer.zero_grad()
         optimizer_f.zero_grad()
-        if args.method!='BNM-sum':
+        if args.method!='CDL':
             loss.backward(retain_graph = True)
             optimizer.step()
             optimizer_f.step()
