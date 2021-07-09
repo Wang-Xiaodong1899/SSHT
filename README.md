@@ -17,7 +17,7 @@ Office-31 can be found [here](https://paperswithcode.com/dataset/office-31).
 Office-Home can be found [here](https://www.hemanthdv.org/officeHomeDataset.html).  
 DomainNet can be found [here](http://ai.bu.edu/M3SDA/).  
 Visda-2017 can be found [here](https://github.com/VisionLearningGroup/taskcv-2017-public).  
-
+Here, we provide the [label lists](https://github.com/Wang-xd1899/SSHT/tree/main/data/txt) for the above datasets, for UDA, SSDA (1 shot and 3 shot).
 # Train and Test
 Please refer [run_sh.md](https://github.com/Wang-xd1899/SSHT/blob/main/run_sh.md). 
 # Citation
