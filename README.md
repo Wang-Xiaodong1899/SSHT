@@ -18,10 +18,16 @@ Office-Home can be found [here](https://www.hemanthdv.org/officeHomeDataset.html
 DomainNet can be found [here](http://ai.bu.edu/M3SDA/).  
 Visda-2017 can be found [here](https://github.com/VisionLearningGroup/taskcv-2017-public).  
 
+# Train and Test
+Please refer [run_sh.md](https://github.com/Wang-xd1899/SSHT/blob/main/run_sh.md). 
 # Citation
 If you use this code for your research, please consider citing:
 ```
-Arxiv...
+@inproceedings{Wang2021LearningIR,
+  title={Learning Invariant Representation with Consistency and Diversity for Semi-supervised Source Hypothesis Transfer},
+  author={Xiaodong Wang and Junbao Zhuo and Shuhao Cui and Shuhui Wang},
+  year={2021}
+}
 ```
 # Contact
 If you have any question, contact to me:  
