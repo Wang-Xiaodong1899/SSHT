@@ -23,10 +23,10 @@ Please refer [run_sh.md](https://github.com/Wang-xd1899/SSHT/blob/main/run_sh.md
 # Citation
 If you use this code for your research, please consider citing:
 ```
-@inproceedings{Wang2021LearningIR,
+@article{wang2021learning,
   title={Learning Invariant Representation with Consistency and Diversity for Semi-supervised Source Hypothesis Transfer},
-  author={Xiaodong Wang and Junbao Zhuo and Shuhao Cui and Shuhui Wang},
-  booktitle={Arxiv 2107.03008},
+  author={Wang, Xiaodong and Zhuo, Junbao and Cui, Shuhao and Wang, Shuhui},
+  journal={arXiv preprint arXiv:2107.03008},
   year={2021}
 }
 ```
