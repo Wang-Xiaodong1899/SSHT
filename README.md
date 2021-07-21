@@ -1,6 +1,6 @@
 # SSHT
 "SSHT" (Semi-supervised Source Hypothesis Transfer.)  
-Paper: Learning Invariant Representation with Consistency and Diversity for Semi-supervised Source Hypothesis Transfer  
+Paper: [Learning Invariant Representation with Consistency and Diversity for Semi-supervised Source Hypothesis Transfer](https://arxiv.org/abs/2107.03008)
 ![](ssht.png)
 # Environment
 - pytorch=1.2.0
